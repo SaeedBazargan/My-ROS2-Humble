@@ -1,2 +1,1 @@
-source;share/tinybot_description/environment/ament_prefix_path.sh
-source;share/tinybot_description/environment/path.sh
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description/ament_cmake_environment_hooks/local_setup.dsv

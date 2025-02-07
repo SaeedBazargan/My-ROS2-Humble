@@ -1,0 +1,32 @@
+[0.017s] Invoking command in '/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/tinybot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description
+[0.045s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.254s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.376s] -- Configuring done
+[0.382s] -- Generating done
+[0.385s] -- Build files have been written to: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description
+[0.389s] Invoked command in '/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/tinybot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description
+[0.391s] Invoking command in '/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description -- -j4 -l4
+[0.450s] Invoked command in '/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description -- -j4 -l4
+[0.466s] Invoking command in '/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description
+[0.477s] -- Install configuration: ""
+[0.477s] -- Execute custom install script
+[0.478s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//urdf/tinyrobot.urdf.xacro
+[0.492s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//launch/display.launch.py
+[0.506s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//launch/display.launch.xml
+[0.520s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//rviz/tinybot_urdf_config.rviz
+[0.534s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/ament_index/resource_index/package_run_dependencies/tinybot_description
+[0.550s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/ament_index/resource_index/parent_prefix_path/tinybot_description
+[0.564s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/environment/ament_prefix_path.sh
+[0.578s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/environment/ament_prefix_path.dsv
+[0.592s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/environment/path.sh
+[0.607s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/environment/path.dsv
+[0.620s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/local_setup.bash
+[0.635s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/local_setup.sh
+[0.649s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/local_setup.zsh
+[0.663s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/local_setup.dsv
+[0.677s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/package.dsv
+[0.690s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/ament_index/resource_index/packages/tinybot_description
+[0.703s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/cmake/tinybot_descriptionConfig.cmake
+[0.716s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/cmake/tinybot_descriptionConfig-version.cmake
+[0.730s] -- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description/package.xml
+[0.746s] Invoked command in '/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_description

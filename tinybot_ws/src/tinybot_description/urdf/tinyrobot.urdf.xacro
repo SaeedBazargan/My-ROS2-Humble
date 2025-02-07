@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<robot name="tinybot" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <xacro:include filename="common_configes.xacro"/>
+  <xacro:include filename="mobile_base.xacro"/>
+
+</robot>
