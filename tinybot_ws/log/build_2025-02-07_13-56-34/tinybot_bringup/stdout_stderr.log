@@ -1,0 +1,23 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_bringup
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup//launch/tinyrobot_gazebo.launch.xml
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/ament_index/resource_index/package_run_dependencies/tinybot_bringup
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/ament_index/resource_index/parent_prefix_path/tinybot_bringup
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/ament_prefix_path.sh
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/ament_prefix_path.dsv
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/path.sh
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/path.dsv
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/local_setup.bash
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/local_setup.sh
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/local_setup.zsh
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/local_setup.dsv
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/package.dsv
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/ament_index/resource_index/packages/tinybot_bringup
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/cmake/tinybot_bringupConfig.cmake
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/cmake/tinybot_bringupConfig-version.cmake
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/package.xml

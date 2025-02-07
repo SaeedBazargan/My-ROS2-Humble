@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+    
+    <gazebo reference="base_link">
+        <material>Gazebo/Blue</material>
+    </gazebo>
+
+    <gazebo reference="rightwheel_link">
+        <material>Gazebo/White</material>
+    </gazebo>
+    <gazebo reference="lefttwheel_link">
+        <material>Gazebo/White</material>
+    </gazebo>
+
+    <gazebo reference="casterwheel_link">
+        <material>Gazebo/White</material>
+    </gazebo>
+</robot>

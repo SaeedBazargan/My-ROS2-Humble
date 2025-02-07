@@ -1,0 +1,17 @@
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup//launch/tinyrobot_gazebo.launch.xml
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup//rviz/tinybot_urdf_config.rviz
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/ament_index/resource_index/package_run_dependencies/tinybot_bringup
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/ament_index/resource_index/parent_prefix_path/tinybot_bringup
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/ament_prefix_path.sh
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/ament_prefix_path.dsv
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/path.sh
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/path.dsv
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/local_setup.bash
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/local_setup.sh
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/local_setup.zsh
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/local_setup.dsv
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/package.dsv
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/ament_index/resource_index/packages/tinybot_bringup
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/cmake/tinybot_bringupConfig.cmake
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/cmake/tinybot_bringupConfig-version.cmake
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/package.xml

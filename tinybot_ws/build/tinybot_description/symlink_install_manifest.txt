@@ -1,5 +1,6 @@
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//urdf/common_configes.xacro
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//urdf/mobile_base.xacro
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//urdf/mobile_base_gazebo.xacro
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//urdf/tinyrobot.urdf.xacro
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//launch/display.launch.py
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_description/share/tinybot_description//launch/display.launch.xml

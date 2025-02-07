@@ -3,5 +3,6 @@
 
   <xacro:include filename="common_configes.xacro"/>
   <xacro:include filename="mobile_base.xacro"/>
+  <xacro:include filename="mobile_base_gazebo.xacro"/>
 
 </robot>
