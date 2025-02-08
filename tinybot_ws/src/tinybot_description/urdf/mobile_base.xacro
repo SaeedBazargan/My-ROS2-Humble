@@ -27,7 +27,7 @@
                        h="${2*base_height}" xyz="0 0 ${base_height / 2.0}" rpy="0 0 0"/>
   </link>
 
-  <xacro:macro name="wheel_link" params="prefix">
+  <xacro:macro name="Wheel_link" params="prefix">
     <link name="${prefix}Wheel_link">
       <visual>
         <geometry>
@@ -47,8 +47,8 @@
     </link>
   </xacro:macro>
 
-  <xacro:wheel_link prefix="right"/>
-  <xacro:wheel_link prefix="left"/>
+  <xacro:Wheel_link prefix="right"/>
+  <xacro:Wheel_link prefix="left"/>
 
   <link name="casterWheel">
     <visual>

@@ -5,14 +5,34 @@
         <material>Gazebo/Blue</material>
     </gazebo>
 
-    <gazebo reference="rightwheel_link">
+    <gazebo reference="rightWheel_link">
         <material>Gazebo/White</material>
     </gazebo>
-    <gazebo reference="lefttwheel_link">
+    <gazebo reference="leftWheel_link">
         <material>Gazebo/White</material>
     </gazebo>
 
-    <gazebo reference="casterwheel_link">
+    <gazebo reference="casterWheel">
         <material>Gazebo/White</material>
+    </gazebo>
+    
+    <gazebo>
+        <plugin name="diff_drive_controller" filename="libgazebo_ros_diff_drive.so">
+            <!-- Update rate in Hz -->
+            <update_rate>50</update_rate>
+            <!-- wheels -->
+            <left_joint>base_leftWheel_joint</left_joint>
+            <right_joint>base_rightWheel_joint</right_joint>
+            <!-- kinematics -->
+            <wheel_separation>0.45</wheel_separation>
+            <wheel_diameter>0.2</wheel_diameter>
+            <!-- output -->
+            <publish_odom>true</publish_odom>
+            <publish_odom_tf>true</publish_odom_tf>
+            <publish_wheel_tf>true</publish_wheel_tf>
+            <odometry_topic>odom</odometry_topic>
+            <odometry_frame>odom</odometry_frame>
+            <robot_base_frame>base_footprint</robot_base_frame>
+        </plugin>
     </gazebo>
 </robot>

@@ -1,6 +1,7 @@
 <launch>
     <let name="urdf_path" 
         value="$(find-pkg-share tinybot_description)/urdf/tinyrobot.urdf.xacro"/>
+        
     <let name="rviz_config_path"
          value="$(find-pkg-share tinybot_bringup)/rviz/tinybot_urdf_config.rviz"/>
 
