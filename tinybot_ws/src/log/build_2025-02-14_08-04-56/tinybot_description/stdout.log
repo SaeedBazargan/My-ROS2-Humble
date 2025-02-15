@@ -1,0 +1,43 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description//urdf/camera.xacro
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description//urdf/common_configes.xacro
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description//urdf/mobile_base.xacro
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description//urdf/mobile_base_gazebo.xacro
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description//urdf/tinyrobot.urdf.xacro
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description//launch/display.launch.py
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description//launch/display.launch.xml
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description//rviz/tinybot_urdf_config.rviz
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/ament_index/resource_index/package_run_dependencies/tinybot_description
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/ament_index/resource_index/parent_prefix_path/tinybot_description
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/environment/path.sh
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/environment/path.dsv
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/local_setup.bash
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/local_setup.sh
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/local_setup.zsh
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/local_setup.dsv
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/package.dsv
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/ament_index/resource_index/packages/tinybot_description
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/cmake/tinybot_descriptionConfig.cmake
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/cmake/tinybot_descriptionConfig-version.cmake
+-- Symlinking: /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/install/tinybot_description/share/tinybot_description/package.xml

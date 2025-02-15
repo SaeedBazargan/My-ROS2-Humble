@@ -1,0 +1,4 @@
+source;share/tinybot_bringup/local_setup.bash
+source;share/tinybot_bringup/local_setup.dsv
+source;share/tinybot_bringup/local_setup.sh
+source;share/tinybot_bringup/local_setup.zsh

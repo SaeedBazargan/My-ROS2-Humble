@@ -1,0 +1,9 @@
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/uninstall.dir
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/tinybot_bringup_uninstall.dir
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/test.dir
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/edit_cache.dir
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/rebuild_cache.dir
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/list_install_components.dir
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/install.dir
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/install/local.dir
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/build/tinybot_bringup/CMakeFiles/install/strip.dir

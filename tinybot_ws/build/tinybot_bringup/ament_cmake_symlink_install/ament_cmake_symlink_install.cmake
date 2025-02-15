@@ -310,8 +310,8 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install(DIRECTORY "launch" "rviz" "DESTINATION" "share/tinybot_bringup/")
-ament_cmake_symlink_install_directory("/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/tinybot_bringup" DIRECTORY "launch" "rviz" "DESTINATION" "share/tinybot_bringup/")
+# install(DIRECTORY "launch" "rviz" "worlds" "DESTINATION" "share/tinybot_bringup/")
+ament_cmake_symlink_install_directory("/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/tinybot_bringup" DIRECTORY "launch" "rviz" "worlds" "DESTINATION" "share/tinybot_bringup/")
 
 # install(FILES "/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_bringup/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/tinybot_bringup" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/src/tinybot_bringup" FILES "/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/build/tinybot_bringup/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/tinybot_bringup" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")

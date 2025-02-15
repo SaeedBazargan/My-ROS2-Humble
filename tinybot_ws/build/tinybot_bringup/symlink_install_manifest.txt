@@ -1,5 +1,6 @@
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup//launch/tinyrobot_gazebo.launch.xml
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup//rviz/tinybot_urdf_config.rviz
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup//worlds/Home_World_without_tinyrobot.world
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/ament_index/resource_index/package_run_dependencies/tinybot_bringup
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/ament_index/resource_index/parent_prefix_path/tinybot_bringup
 /home/sbzrobot/ROS2-Projects/My-ROS2-Humble/tinybot_ws/install/tinybot_bringup/share/tinybot_bringup/environment/ament_prefix_path.sh
