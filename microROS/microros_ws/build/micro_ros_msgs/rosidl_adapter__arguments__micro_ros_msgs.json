@@ -1,0 +1,8 @@
+{
+  "package_name": "micro_ros_msgs",
+  "non_idl_tuples": [
+    "/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/src/uros/micro_ros_msgs:msg/Graph.msg",
+    "/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/src/uros/micro_ros_msgs:msg/Node.msg",
+    "/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/src/uros/micro_ros_msgs:msg/Entity.msg"
+  ]
+}

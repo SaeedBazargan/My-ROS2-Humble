@@ -1,0 +1,13 @@
+# Target labels
+ xrceagent
+# Source files and their labels
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/CMakeFiles/xrceagent
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/CMakeFiles/xrceagent.rule
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/CMakeFiles/xrceagent-complete.rule
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-build.rule
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-configure.rule
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-download.rule
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-install.rule
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-mkdir.rule
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-patch.rule
+/home/sbzrobot/ROS2-Projects/My-ROS2-Humble/microROS/microros_ws/build/micro_ros_agent/agent/src/xrceagent-stamp/xrceagent-update.rule
